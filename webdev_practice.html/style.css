@@ -1,9 +1,11 @@
+/* Web page size*/ 
 body{
     width:90%;
     margin-left: auto;
     margin-right: auto;
 }
 
+/* to have a "title" such as the filipino adobo*/
 .recipe{
     background-color: burlywood;
     color: black;
@@ -14,6 +16,7 @@ body{
 
 }
 
+/*navigation bar to direct in description method etc*/
 .navbar {
     background-color: beige;
     width: 89.5pc;
@@ -31,6 +34,7 @@ body{
     padding: 8px;
   } 
 
+/*description deisgn*/
 .dcrptn{
     padding: 18px;
     background-color: rgb(243, 243, 170);
@@ -44,6 +48,7 @@ body{
     margin: 1% 0 1% 0;
 }
 
+/*img size and positions*/
 .splash{
     padding: 9px;
     width: 450px;
@@ -52,11 +57,13 @@ body{
     background-position: right; 
 }
 
+/*to align the img and text*/
 .two-block {
     display: flex;
     flex-direction: row;
 }
 
+/* design and positions of the ingredients and unorder list*/
 .ingrdnts{
     background-color: rgb(30, 28, 14);
     color: beige;
@@ -72,6 +79,7 @@ body{
     font-size: 18px;
 }
 
+/* design and positions of the method and ordered list*/
 .mthd{
     background-color: rgb(30, 28, 14);
     color: beige;
