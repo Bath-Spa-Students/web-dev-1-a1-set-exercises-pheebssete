@@ -1,0 +1,89 @@
+body{
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipe{
+    background-color: burlywood;
+    color: black;
+    border: 1pc solid black;
+    padding: 2px;
+    font-size: 2pc;
+    text-align: center; 
+
+}
+
+.navbar {
+    background-color: beige;
+    width: 89.5pc;
+    border: 5px solid black;
+    padding: 1pc;
+    text-align: center;
+    font-size: 23px;
+  }
+  
+  .navbar a {
+    color: black;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 8px;
+  } 
+
+.dcrptn{
+    padding: 18px;
+    background-color: rgb(243, 243, 170);
+    border: 5px solid black;
+    text-align: left;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 1% 0 1% 0;
+}
+
+.splash{
+    padding: 9px;
+    width: 450px;
+    height: 400px;
+    background-size: contain;
+    background-position: right; 
+}
+
+.two-block {
+    display: flex;
+    flex-direction: row;
+}
+
+.ingrdnts{
+    background-color: rgb(30, 28, 14);
+    color: beige;
+    text-align: center;
+    padding: 2px;
+}
+
+.ul{
+    background-color: lightyellow;
+    color: black;
+    text-align: left;
+    padding: 2px;
+    font-size: 18px;
+}
+
+.mthd{
+    background-color: rgb(30, 28, 14);
+    color: beige;
+    text-align: center;
+    padding: 2px;
+}
+
+.ol{
+    background-color: lightyellow;
+    color: black;
+    text-align: left;
+    font-size: 19px;
+    padding: 2px;
+}
+
