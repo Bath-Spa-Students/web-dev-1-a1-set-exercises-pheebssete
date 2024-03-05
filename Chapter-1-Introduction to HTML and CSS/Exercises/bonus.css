@@ -1,0 +1,109 @@
+/* Web page size*/ 
+body{
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+.start{
+    color: rgb(123, 213, 32);
+}
+
+.unrdrd{
+    color: aquamarine;
+}
+
+.csslst{
+    color:aquamarine;
+}
+
+.h1{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.blckqt{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.prgrph{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.bld{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.sprscrpt{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.sbscrpt{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.itlc{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.unrdrlst{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.ordrdlst{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.dvsn{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.bp{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.brdr{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.txt{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.wdth{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.hght{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.bc{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.clr{
+    color: antiquewhite;
+    font-size: 19px;
+}
+
+.fnt{
+    color: antiquewhite;
+    font-size: 19px;
+}
