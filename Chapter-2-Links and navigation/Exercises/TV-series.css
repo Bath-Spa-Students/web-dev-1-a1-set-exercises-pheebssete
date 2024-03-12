@@ -23,12 +23,12 @@ body{
     border: 5px solid green;
     padding: 4px;
     text-align: center;
-    font-size: 23px;
+    font-size: 20px;
 }
 
 .navbar a {
     color: white    ;
-    text-align: center;
+    text-align: left;
     margin-left: 5%;
     margin-right: 5%;
   } 
@@ -49,6 +49,11 @@ body{
     text-align: center;
     padding: 2px;
     border: 5px solid #f0cc4e;
+}
+
+.twoblocks{ 
+    display: flex;
+    flex-direction: row;
 }
 
 .sy{
@@ -76,7 +81,8 @@ body{
     text-align: center;
     font-size: 20px;
     color: rgb(228, 225, 203);
-    margin: 1% 0 0 0;
+    margin: 1% 1% 0 0;
+    width: 50pc;
 }
 
 .c{
@@ -85,6 +91,25 @@ body{
     text-align: left;
     padding: 2px;
     border: 5px solid #f0cc4e;
+}
+
+.crew{
+    padding: auto;
+    background-color: #a13d22;
+    border: 5px solid black;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(228, 225, 203);
+    margin: 1% 0 0 0;
+    width: 45pc;
+}
+
+.cr{
+    background-color: #24287d;
+    color: rgb(228, 225, 203);
+    text-align: left;
+    padding: 2px;
+    border: 5px solid #f0cc4e; 
 }
 
 .ss{
@@ -195,4 +220,20 @@ body{
     padding: 2px;
     border: 5px solid #f0cc4e; 
     font-size: 20px;
+}
+
+.hi{
+    background-color: #24287d;
+    color: rgb(228, 225, 203);
+    text-align: center;
+    padding: 2px;
+    border: 5px solid #f0cc4e; 
+    font-size: 20px;
+    margin: 1% 0 0 0;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    margin: 1% 0 0 0;
 }
