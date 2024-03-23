@@ -20,7 +20,7 @@ body{
 .nyc1{
     flex: 1;
     margin: 10px;
-    filter: grayscale(100%)
+    filter: drop-shadow(8px 8px 10px gray);
 }
 
 .esb{
@@ -39,7 +39,7 @@ body{
 .nyc2{
     flex: 1;
     margin: 10px;
-    filter: grayscale(5);
+    filter: contrast(200%);
 }
 
 .sl{
