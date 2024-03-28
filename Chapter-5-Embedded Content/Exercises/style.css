@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(73, 73, 73);
+}
+
+.marvel{
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+video{
+    box-shadow: 1px 3px 15px black;
+}
