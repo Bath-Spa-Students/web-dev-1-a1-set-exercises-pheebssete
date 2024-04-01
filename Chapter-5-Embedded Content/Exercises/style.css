@@ -2,6 +2,12 @@ body{
     background-color: rgb(73, 73, 73);
 }
 
+h1{ 
+    text-align: center;
+    color: blueviolet;
+    font-size: 3pc;
+}
+
 .marvel{
     left: 50%;
     position: absolute;
@@ -11,4 +17,11 @@ body{
 
 video{
     box-shadow: 1px 3px 15px black;
+}
+
+.foot{
+    position: relative;
+    top: 570px;
+    text-align: center;
+    color: antiquewhite;
 }
