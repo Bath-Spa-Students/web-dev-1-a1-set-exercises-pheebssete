@@ -27,7 +27,7 @@ main{
 
 /* navigation bar*/
 .navbar{
-    width: 90.2pc;
+    width: 100%;
     border: 5px solid #35374B;
     padding:10px;
     text-align: left;
@@ -38,10 +38,10 @@ main{
 
 .navbar a {
     color: white;
-    text-align: left;
-    margin-left: 5%;
-    margin-right: 5%;
+    text-align: center;
+    margin: 2%;
     text-decoration: none;
+    padding: 2.9%;
   } 
 
 .navbar a:hover{
@@ -262,7 +262,7 @@ main{
 .link a:hover{
     background-color: #35374B;
     color:rgb(228, 225, 203);
-    padding: 8px;
+    
 }
 
 .fot{
