@@ -1,0 +1,186 @@
+/* Web page size*/ 
+body{
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+.start{
+    color: rgb(123, 213, 32);
+}
+
+.unrdrd{
+    color: aquamarine;
+}
+
+.csslst{
+    color:aquamarine;
+}
+
+.h1{
+    color: rgb(125, 188, 125);
+    font-size: 19px;
+}
+
+.h1b{
+    color: black;
+    font-size: 19px;
+    background-color: lightyellow;
+}
+
+.h1e{
+    color:blueviolet;
+    font-size: 19px;
+}
+
+.blckqt{
+    color: rgb(125, 188, 125);
+    font-size: 19px;
+}
+
+.blckqt1{
+    color: black;
+    font-size: 19px;
+    background-color: lightyellow;
+}
+
+.blckqt2{
+    color:blueviolet;
+    font-size: 19px;
+}
+
+.prgrph{
+    color: rgb(125, 188, 125);
+    font-size: 19px;
+}
+
+.prgrph1{
+    color: black;
+    font-size: 19px;
+    background-color: lightyellow;
+}
+
+.prgrph2{
+    color:blueviolet;
+    font-size: 19px; 
+}
+
+.bld{
+    color: rgb(125, 188, 125);
+    font-size: 19px;
+}
+
+.bld1{
+    color: black;
+    font-size: 19px;
+    background-color: lightyellow;
+}
+
+.bld2{
+    color:blueviolet;
+    font-size: 19px; 
+}
+
+.sprscrpt{
+    color: rgb(125, 188, 125);
+    font-size: 19px;
+}
+
+.sprscrpt1{
+    color: black;
+    font-size: 19px;
+    background-color: lightyellow;
+}
+
+.sprscrpt2{
+    color:blueviolet;
+    font-size: 19px; 
+}
+
+.sbscrpt{
+    color: rgb(125, 188, 125);
+    font-size: 19px;
+}
+
+.sbscrpt1{
+    color: black;
+    font-size: 19px;
+    background-color: lightyellow;
+}
+
+.sbscrpt2{
+    color:blueviolet;
+    font-size: 19px; 
+}
+
+.itlc{
+    color: rgb(125, 188, 125);
+    font-size: 19px;
+}
+
+.itlc1{
+    color: black;
+    font-size: 19px;
+    background-color: lightyellow;
+}
+
+.itlc2{
+    color:blueviolet;
+    font-size: 19px; 
+}
+
+.unrdrlst{
+    color: rgb(125, 188, 125);
+    font-size: 19px;
+}
+
+.unrdrlst1{
+    color: black;
+    font-size: 19px;
+    background-color: lightyellow;
+}
+
+.unrdrlst2{
+    color:blueviolet;
+    font-size: 19px; 
+}
+
+.ordrdlst{
+    color: rgb(125, 188, 125);
+    font-size: 19px;
+}
+
+.ordrdlst1{
+    color: black;
+    font-size: 19px;
+    background-color: lightyellow;
+}
+
+.ordrdlst2{
+    color:blueviolet;
+    font-size: 19px;
+}
+
+.dvsn{
+    color: rgb(125, 188, 125);
+    font-size: 19px;
+}
+
+.dvsn1{
+    color: black;
+    font-size: 19px;
+    background-color: lightyellow;
+}
+
+.bp{
+    color: rgb(125, 188, 125);
+    font-size: 19px;
+}
+
+.pb{
+    color: black;
+    font-size: 19px;
+    background-color: lightyellow;
+}
+
