@@ -1,0 +1,97 @@
+/* Web page size*/ 
+body{
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* to have a "title" such as the filipino adobo*/
+.recipe{
+    background-color: burlywood;
+    color: black;
+    border: 1pc solid black;
+    padding: 2px;
+    font-size: 2pc;
+    text-align: center; 
+
+}
+
+/*navigation bar to direct in description method etc*/
+.navbar {
+    background-color: beige;
+    width: 80.pc;
+    border: 5px solid black;
+    padding: 1pc;
+    text-align: center;
+    font-size: 23px;
+  }
+  
+  .navbar a {
+    color: black;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 8px;
+  } 
+
+/*description deisgn*/
+.dcrptn{
+    padding: 18px;
+    background-color: rgb(243, 243, 170);
+    border: 5px solid black;
+    text-align: left;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 1% 0 1% 0;
+}
+
+/*img size and positions*/
+.splash{
+    padding: 9px;
+    width: 450px;
+    height: 400px;
+    background-size: contain;
+    background-position: right; 
+}
+
+/*to align the img and text*/
+.two-block {
+    display: flex;
+    flex-direction: row;
+}
+
+/* design and positions of the ingredients and unorder list*/
+.ingrdnts{
+    background-color: rgb(30, 28, 14);
+    color: beige;
+    text-align: center;
+    padding: 2px;
+}
+
+.ul{
+    background-color: lightyellow;
+    color: black;
+    text-align: left;
+    padding: 2px;
+    font-size: 18px;
+}
+
+/* design and positions of the method and ordered list*/
+.mthd{
+    background-color: rgb(30, 28, 14);
+    color: beige;
+    text-align: center;
+    padding: 2px;
+}
+
+.ol{
+    background-color: lightyellow;
+    color: black;
+    text-align: left;
+    font-size: 19px;
+    padding: 2px;
+}
+
