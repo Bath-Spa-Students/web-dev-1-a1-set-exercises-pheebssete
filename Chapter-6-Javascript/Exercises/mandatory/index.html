@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
+</head>
+<body>
+
+    <!--div for the whole content-->
+    <div class="content">
+
+    <!-- header for petrol calcu-->
+    <header>
+        <h1> Petrol Calculator</h1>
+    </header>
+
+    <div class="border1">
+        <div class="p">
+            <!--label tag for price-->
+            <label for="price" class="price"> Price (AED) per Liter: </label>
+            <!--input for per liter 1.72-->
+            <input type="number" id="cost" value="1.72" placeholder="Enter cost per liter"> 
+        </div>
+
+        <div class="p">
+            <!--label for liters-->
+            <label for="liters">Liters:</label>
+            <!--input for liter-->
+            <input type="number" id="liters" min="0" max="100" value="0">
+        </div>
+    </div>
+
+    <!--div for button and total cost-->
+    <div class="total">
+        <!--button for total cost-->
+        <button onclick="calculate()">CALCULATE TOTAL AMOUNT</button>
+        <p id="Amount"></p>
+    </div>
+    </div>
+</body>
+</html>
