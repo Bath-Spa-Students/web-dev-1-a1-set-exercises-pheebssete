@@ -1,0 +1,82 @@
+/*style for the body*/
+body {
+    background-color: beige;
+    align-items: center;
+    height: 100%;
+    margin: auto; 
+    display: flex;
+    justify-content: center;
+}
+
+/*style for first div*/
+.content {
+    background-image: url(petrol.jpg);
+    border: 3px solid black; 
+    padding: 105px; 
+    border-radius: 5px; 
+    align-items: center; 
+    margin: 50px;
+}
+
+/*styling h1*/
+h1{
+    text-align: center;
+    color: #EA3B35;
+    background-color: blanchedalmond;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+/*inner div*/
+.border1{
+    background-color: blanchedalmond; 
+    padding: 20px; 
+    border: 3px solid black; 
+    border-radius: 3px; 
+    margin-bottom: 10%; 
+}
+
+/*style for the proce and liter*/
+.p{
+    display: flex; 
+    flex-direction: column; 
+    margin-top: 10px;
+    margin-bottom: 10px; 
+}
+
+/*padding*/
+.p label {
+    padding: 10px;  
+}
+
+/*design for last div*/
+.total{
+    display: flex; 
+    flex-direction: column; 
+    padding: 3px;
+    align-items: center;  
+}
+
+/*button design*/
+button{
+    background-color: black; 
+    color: blanchedalmond;
+    text-align: center; 
+    border-radius: 5px;
+     padding: 5px;
+    display: inline-block; 
+    cursor: pointer; 
+}
+
+/*button hover design*/
+button:hover { 
+    color: #EA3B35; 
+}
+
+/*amopunt id for design*/
+#Amount{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
